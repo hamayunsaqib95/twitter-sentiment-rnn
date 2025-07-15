@@ -1,4 +1,4 @@
-# 🧠 Twitter Entity Sentiment Analysis with BiLSTM (Keras + Colab)
+# Twitter Entity Sentiment Analysis with BiLSTM (Keras + Colab)
 
 This project implements a deep learning model using a **Bidirectional LSTM** network to classify the **sentiment** (Positive, Negative, Neutral, Irrelevant) of entities in tweets. It was trained and evaluated using the **Twitter Entity Sentiment Analysis** dataset from Kaggle.
 
@@ -19,7 +19,7 @@ twitter-sentiment-rnn/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Name**: Twitter Entity Sentiment Analysis  
 - **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
@@ -28,7 +28,7 @@ twitter-sentiment-rnn/
 
 ---
 
-## 🚀 Features
+## Features
 
 - Text preprocessing using regex and NLTK stopwords
 - Tokenization and sequence padding using TensorFlow
@@ -52,7 +52,7 @@ twitter-sentiment-rnn/
 
 ---
 
-## 🧪 Sample Usage (Colab)
+## Sample Code
 
 ```python
 # Load model, tokenizer, and encoder
